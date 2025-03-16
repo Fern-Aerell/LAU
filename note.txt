@@ -1,0 +1,30 @@
+- Religion
+- English
+- Mathematics
+- 10 finger typing
+
+- Computer Science
+- Data Structures & Algorithms
+- Business & Marketing
+
+- Machine Code
+- Assembly Programming Language
+    - linux-at&t-x86_64
+    - windows-at&t-x86_64
+    - linux-intel-x86_64
+    - windows-intel-x86_64
+    - linux-at&t-x86
+    - windows-at&t-x86
+    - linux-intel-x86
+    - windows-intel-x86
+
+- C Programming Language
+- C++ Programming Language
+- C# Programming Language
+- Rust Programming Language
+- Go Programming Language
+- Python Programming Language
+- Java Programming Language
+- Dart Programming Language
+- JavaScript Programming Language
+- Typescript Programming Language
