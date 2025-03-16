@@ -4,3 +4,6 @@
 [submodule "Assembly-Programming-Language"]
 	path = Assembly-Programming-Language
 	url = https://github.com/Fern-Aerell/LAU-Assembly-Programming-Language.git
+[submodule "Machine-Code"]
+	path = Machine-Code
+	url = https://github.com/Fern-Aerell/LAU-Machine-Code.git
