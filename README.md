@@ -1,2 +1,2 @@
-# Learn
-A repository for learning and experimenting
+# LAU (Learn And Understand)
+A repository for exploration and mastery.
