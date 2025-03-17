@@ -1,9 +1,9 @@
 [submodule "C-Programming-Language"]
 	path = C-Programming-Language
-	url = https://github.com/Fern-Aerell/LAU-C-Programming-Language.git
+	url = https://github.com/Learn-And-Understand/LAU-C-Programming-Language.git
 [submodule "Assembly-Programming-Language"]
 	path = Assembly-Programming-Language
-	url = https://github.com/Fern-Aerell/LAU-Assembly-Programming-Language.git
+	url = https://github.com/Learn-And-Understand/LAU-Assembly-Programming-Language.git
 [submodule "Machine-Code"]
 	path = Machine-Code
-	url = https://github.com/Fern-Aerell/LAU-Machine-Code.git
+	url = https://github.com/Learn-And-Understand/LAU-Machine-Code.git
