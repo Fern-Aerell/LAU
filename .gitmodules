@@ -1,12 +1,12 @@
-[submodule "C-Programming-Language"]
-	path = C-Programming-Language
-	url = https://github.com/Learn-And-Understand/LAU-C-Programming-Language.git
-[submodule "Assembly-Programming-Language"]
-	path = Assembly-Programming-Language
-	url = https://github.com/Learn-And-Understand/LAU-Assembly-Programming-Language.git
 [submodule "Machine-Code"]
 	path = Machine-Code
 	url = https://github.com/Learn-And-Understand/LAU-Machine-Code.git
 [submodule "10-Finger-Typing"]
 	path = 10-Finger-Typing
 	url = https://github.com/Learn-And-Understand/LAU-10-Finger-Typing.git
+[submodule "Assembly"]
+	path = Assembly
+	url = https://github.com/Learn-And-Understand/LAU-Assembly.git
+[submodule "C"]
+	path = C
+	url = https://github.com/Learn-And-Understand/LAU-C.git
