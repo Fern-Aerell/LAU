@@ -1,6 +1,3 @@
-[submodule "Machine-Code"]
-	path = Machine-Code
-	url = https://github.com/Learn-And-Understand/LAU-Machine-Code.git
 [submodule "10-Finger-Typing"]
 	path = 10-Finger-Typing
 	url = https://github.com/Learn-And-Understand/LAU-10-Finger-Typing.git
@@ -10,3 +7,24 @@
 [submodule "C"]
 	path = C
 	url = https://github.com/Learn-And-Understand/LAU-C.git
+[submodule "Religion"]
+	path = Religion
+	url = https://github.com/Learn-And-Understand/LAU-Religion.git
+[submodule "English"]
+	path = English
+	url = https://github.com/Learn-And-Understand/LAU-English.git
+[submodule "Mathematics"]
+	path = Mathematics
+	url = https://github.com/Learn-And-Understand/LAU-Mathematics.git
+[submodule "CPP"]
+	path = CPP
+	url = https://github.com/Learn-And-Understand/LAU-CPP.git
+[submodule "LLVM"]
+	path = LLVM
+	url = https://github.com/Learn-And-Understand/LAU-LLVM.git
+[submodule "MLIR"]
+	path = MLIR
+	url = https://github.com/Learn-And-Understand/LAU-MLIR.git
+[submodule "Machine-Code"]
+	path = Machine-Code
+	url = https://github.com/Learn-And-Understand/LAU-Machine-Code.git
